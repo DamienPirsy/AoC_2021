@@ -1,12 +1,10 @@
-# AoC_2020
+# AoC_2021
 My take at the :santa: Advent of Code 2020 🎄
 
-Solutions are provided in PHP because:
+Solutions are provided in PHP, mainly because of the little time at my disposal; I'd like to take a GO version too, but I'm sure I won't last long
 
-- It's my main language of everyday;
-- Given the little time I have for these amusements using another language would've been frustrating :stuck_out_tongue_winking_eye: 
 
-[Blog](https://matteovignoli.it)
+[Site](https://matteovignoli.it)
 |
 [Twitter](https://twitter.com/damienpirsy)
 
@@ -16,35 +14,35 @@ Solutions are provided in PHP because:
 ## What is Advent of Code?
 [Advent of Code](http://adventofcode.com) is an online event created by [Eric Wastl](https://twitter.com/ericwastl). Each year, starting on Dec 1st, an advent calendar of small programming puzzles are unlocked once a day at midnight (EST/UTC-5). Developers of all skill sets are encouraged to solve them in any programming language they choose!
 
-## Advent of Code 2020 Story
-After saving Christmas five years in a row, you've decided to take a vacation at a nice resort on a tropical island. Surely, Christmas will go on without you.
+## Advent of Code 2021 Story
+You're minding your own business on a ship at sea when the overboard alarm goes off! You rush to see if you can help. Apparently, one of the Elves tripped and accidentally sent the sleigh keys flying into the ocean!
 
-The tropical island has its own currency and is entirely cash-only. The gold coins used there have a little picture of a starfish; the locals just call them stars. None of the currency exchanges seem to have heard of them, but somehow, you'll need to find fifty of these coins by the time you arrive so you can pay the deposit on your room.
+Before you know it, you're inside a submarine the Elves keep ready for situations like this. It's covered in Christmas lights (because of course it is), and it even has an experimental antenna that should be able to track the keys if you can boost its signal strength high enough; there's a little meter that indicates the antenna's signal strength by displaying 0-50 stars.
 
-To save your vacation, you need to get all fifty stars by December 25th.
-
-Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
+Your instincts tell you that in order to save Christmas, you'll need to get all fifty stars by December 25th.first. Each puzzle grants one star. Good luck!
 
 | :hourglass_flowing_sand: = (in progress)
+| :star2: = part solved
+
 ## Progress
 
 | Day  | Part One | Part Two | 
 |---|:---:|:---:|
-| ✔ [Day 1: Report Repair](https://github.com/DamienPirsy/AoC_2020/tree/master/01)| 🌟 | 🌟 |
-| ✔ [Day 2: Password Philosophy](https://github.com/DamienPirsy/AoC_2020/tree/master/02)| 🌟 | 🌟 |
-| ✔ [Day 3: Toboggan Trajectory](https://github.com/DamienPirsy/AoC_2020/tree/master/03)| 🌟 | 🌟 |
-| ✔ [Day 4: Passport Processing](https://github.com/DamienPirsy/AoC_2020/tree/master/04)| 🌟 | 🌟 |
-| ✔ [Day 5: Binary Boarding](https://github.com/DamienPirsy/AoC_2020/tree/master/05)| 🌟 | 🌟 |
-| ✔ [Day 6: Custom Customs](https://github.com/DamienPirsy/AoC_2020/tree/master/06)| 🌟 | 🌟 |
-| ✔ [Day 7: Handy Haversacks](https://github.com/DamienPirsy/AoC_2020/tree/master/07)| 🌟 | 🌟 |
-| ✔ [Day 8: Handheld Halting](https://github.com/DamienPirsy/AoC_2020/tree/master/08)| 🌟 | 🌟 |
-| ✔ [Day 9: Encoding Error](https://github.com/DamienPirsy/AoC_2020/tree/master/09)| 🌟 | 🌟 |
-| ✔ [Day 10: Adapter Array](https://github.com/DamienPirsy/AoC_2020/tree/master/10)| 🌟 | 🌟 |
-| ✔ [Day 11: Seating System](https://github.com/DamienPirsy/AoC_2020/tree/master/11)| 🌟 | 🌟 |
-| ✔ [Day 12: Rain Risk](https://github.com/DamienPirsy/AoC_2020/tree/master/12)| 🌟 | 🌟 |
-| ✔ [Day 13: Shuttle Search](https://github.com/DamienPirsy/AoC_2020/tree/master/13)| 🌟 | 🌟 |
-| ✔ [Day 14: Docking Data](https://github.com/DamienPirsy/AoC_2020/tree/master/14)| 🌟 | 🌟 |
-| [Day 15: Rambunctious Recitation](https://github.com/DamienPirsy/AoC_2020/tree/master/15)| | |
+| ✔ [Day 1: Sonar Sweep](https://github.com/DamienPirsy/AoC_2021/tree/master/01)| :star2: | :star2: |
+| [Day 2: TBD]()| | |
+| [Day 3: TBD]()| | |
+| [Day 4: TBD]()| | |
+| [Day 5: TBD]()| | |
+| [Day 6: TBD]()| | |
+| [Day 7: TBD]()| | |
+| [Day 8: TBD]()| | |
+| [Day 9: TBD]()| | |
+| [Day 10: TBD]()| | |
+| [Day 11: TBD]()| | |
+| [Day 12: TBD]()| | |
+| [Day 13: TBD]()| | |
+| [Day 14: TBD]()| | |
+| [Day 15: TBD]()| | |
 | [Day 16: TBD]()| | |
 | [Day 17: TBD]()| | |
 | [Day 18: TBD]()| | |

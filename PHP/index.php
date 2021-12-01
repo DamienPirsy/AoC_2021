@@ -94,6 +94,16 @@ function load_challenge(string $day, string $input, int $part): string
 }
 
 
+/**
+ * Undocumented function
+ *
+ * @param string $message
+ * @return void
+ */
+function logger(string $message, ...$args): void {
+    echo vsprintf($message."\n", $args);
+}
+
 try {
     echo load_challenge($argv[1], load_input($argv[1]), (isset($argv[2]) ? $argv[2] : 1));
 } catch (\Exception $e) {
