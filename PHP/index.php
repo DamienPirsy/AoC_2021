@@ -95,14 +95,27 @@ function load_challenge(string $day, string $input, int $part): string
 
 
 /**
- * Undocumented function
+ * Logs on the console
  *
  * @param string $message
  * @return void
  */
-function logger(string $message, ...$args): void {
+function logger(string $message, ...$args): void 
+{
     echo vsprintf($message."\n", $args);
 }
+
+/**
+ * Returns the result as formatted string
+ *
+ * @param mixed $arg
+ * @return string
+ */
+function result($arg): string 
+{
+    return vsprintf("%s\n", $arg);
+}
+
 
 try {
     echo load_challenge($argv[1], load_input($argv[1]), (isset($argv[2]) ? $argv[2] : 1));

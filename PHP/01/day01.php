@@ -19,13 +19,12 @@ function solve_one(string $input) : string {
     $counter = -1; // so I could discard the first one
     $previous = 0;
     array_map(function($current) use(&$previous, &$counter) {
-        $current = (int)$current;
         if ($current > $previous) {            
             $counter++;
         }
         $previous = $current;
     }, $items);
-    return sprintf("%d\n", $counter);
+    return result($counter);
 }
 
 

@@ -3,8 +3,7 @@
 /**
  * Test input
  */
-// $input = "";
-
+// $input = ""
 
 function solve_one(string $input) : string
 {
