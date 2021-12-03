@@ -7,11 +7,11 @@
 
 function solve_one(string $input) : string
 {
-    return "";
+    return result();
 }
 
 
 function solve_two(string $input) : string
 {
-    return "";
+    return result();
 }

@@ -111,7 +111,7 @@ function logger(string $message, ...$args): void
  * @param mixed $arg
  * @return string
  */
-function result($arg): string 
+function result($arg = ""): string 
 {
     return vsprintf("%s\n", $arg);
 }
