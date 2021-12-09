@@ -31,7 +31,7 @@ Your instincts tell you that in order to save Christmas, you'll need to get all 
 | ✔ [Day 1: Sonar Sweep](https://github.com/DamienPirsy/AoC_2021/tree/master/PHP/01)| :star2: | :star2: |
 | ✔ [Day 2: Dive!](https://github.com/DamienPirsy/AoC_2021/tree/master/PHP/02)| :star2: | :star2: |
 | ✔ [Day 3: Binary Diagnostic](https://github.com/DamienPirsy/AoC_2021/tree/master/PHP/03)| :star2: | :star2: |
-| [Day 4: TBD]()| | |
+| [Day 4: Giant Squid]()| | |
 | [Day 5: TBD]()| | |
 | [Day 6: TBD]()| | |
 | [Day 7: TBD]()| | |
