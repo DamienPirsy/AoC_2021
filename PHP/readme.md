@@ -33,7 +33,7 @@ Your instincts tell you that in order to save Christmas, you'll need to get all 
 | ✔ [Day 3: Binary Diagnostic](https://github.com/DamienPirsy/AoC_2021/tree/master/PHP/03)| :star2: | :star2: |
 | ✔ [Day 4: Giant Squid](https://github.com/DamienPirsy/AoC_2021/tree/master/PHP/04)| :star2: | :star2: |
 | ✔ [Day 5: Hydrothermal Venture](https://github.com/DamienPirsy/AoC_2021/tree/master/PHP/05)| :star2: | :star2: |
-| [Day 6: Lanternfish]()| | |
+| ✔ [Day 6: Lanternfish](https://github.com/DamienPirsy/AoC_2021/tree/master/PHP/06)| :star2: | :star2: |
 | [Day 7: TBD]()| | |
 | [Day 8: TBD]()| | |
 | [Day 9: TBD]()| | |
