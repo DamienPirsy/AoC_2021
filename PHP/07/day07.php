@@ -26,23 +26,19 @@ function solve_one(string $input) : string
     return result($sum);
 }
 
-
 function solve_two(string $input) : string
 {
-    $items = array_map('intval', explode(',', xplode_input($input)[0]));
-    // calculate the mean value
+    $items = array_map('intval', explode(',', xplode_input($input)[0]));   
     $mean = round(array_sum($items) / count($items));
+    $sum = _calc_fuel($items, $mean);
+    return result($sum);
+}
+
+function _calc_fuel($items, $mean) {
     $sum = 0;
-    logger(json_encode($items));
     foreach ($items as $item) {
         $diff = abs($item - $mean);
-        $i = 0;
-        foreach(range(1, $diff) as $step) {
-            $i+=$step;   
-        }
-        logger("%d to %d: %d (%s). Fuel: %d", $item, $mean, $diff, json_encode(range(1, $diff)), $i);
-        $sum += $i;
-        logger('sum: %s', $sum);
+        $sum += ($diff * ($diff + 1)) / 2;
     }
-    return result($sum);
+    return $sum;
 }
