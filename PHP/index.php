@@ -113,7 +113,7 @@ function logger(string $message, ...$args): void
  */
 function result($arg = ""): string 
 {
-    return vsprintf("%s\n", $arg);
+    return sprintf("%s\n", $arg);
 }
 
 
