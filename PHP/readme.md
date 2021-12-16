@@ -36,7 +36,7 @@ Your instincts tell you that in order to save Christmas, you'll need to get all 
 | ✔ [Day 6: Lanternfish](https://github.com/DamienPirsy/AoC_2021/tree/master/PHP/06)| :star2: | :star2: |
 | ✔ [Day 7: The Treachery of Whales](https://github.com/DamienPirsy/AoC_2021/tree/master/PHP/07)| :star2: | :star2: |
 | ✔ [Day 8: Seven Segment Search](https://github.com/DamienPirsy/AoC_2021/tree/master/PHP/08)| :star2: | :star2: |
-| [Day 9: TBD]()| | |
+| [Day 9: Smoke Basin]()(https://github.com/DamienPirsy/AoC_2021/tree/master/PHP/08)| :star2: | :hourglass_flowing_sand: |
 | [Day 10: TBD]()| | |
 | [Day 11: TBD]()| | |
 | [Day 12: TBD]()| | |
